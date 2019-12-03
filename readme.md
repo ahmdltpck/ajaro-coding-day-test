@@ -1,4 +1,4 @@
-Tekonologi yang saya gunakan bisa dibilang native(konvensional), yang pada umumnya digunakan oleh para
+Tekonologi yang saya gunakan bisa dibilang konvensional, yang pada umumnya digunakan oleh para
 Programmer. yakni Sublime text dengan autocomplete serta snippetnya.
 
 Kemudian untuk web server saya menggunakan apache, dan untuk database menggunakan phpmyadmin
