@@ -1,0 +1,98 @@
+*{
+	font-family: sans-serif;
+	
+	margin: 0;
+}
+
+.container{
+	width: 100%;
+	min-height: 100%;
+}
+.header{
+	width: 100%;
+	min-height: 80px;
+	background-color: black;
+}
+.header h1{
+	color: white;
+	text-align: center;
+	line-height: 80px;
+}
+.content{
+	margin-left: 100px;
+	width: 100%;
+	min-height: 100%;
+	padding: 100px;
+}
+.content ul li{
+	font-weight: 10px;
+	display: inline-block;
+}
+.content h2{
+	font-weight: 10px;
+}	
+.content ul li a{
+	margin-left: 200px;
+	padding: 10px;
+	background-color: limegreen;
+	text-decoration: none;
+	color: white;	
+	border-radius: 6px;
+}
+#red-but{
+	color: red;
+}
+#bl-but{
+	color: royalblue;
+}
+.tabel{
+	margin: 30px;
+}
+.tabel button{
+	border-radius: 6px;
+	border: 1px solid #eee;
+	background-color: royalblue;	
+	padding: 4px;
+	color: white;
+	text-decoration: none;
+}
+.tabel a{
+	border-radius: 6px;
+	padding: 10px;
+	color: black;
+	text-decoration: none;
+}
+.tabel input{
+	border-radius: 10px;
+	border: 1px solid silver;
+	padding: 4px;
+	float: left;
+}
+.tabel textarea{
+	border-radius: 10px;
+	border: 1px solid silver;
+	padding: 4px;
+}
+#nama{
+	width: 200px;
+}
+#stok{
+	width: 100px;
+}
+#deskripsi{
+	width: 200px;
+	min-height: 100px;
+}
+#berat{
+	width: 60px;
+}
+.footer{
+	width: 100%;
+	min-height: 40px;
+	background-color: black;
+}
+.footer h3{
+	text-align: center;
+	color: white;
+	line-height: 40px;
+}
