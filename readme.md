@@ -9,6 +9,7 @@ masing-masing bahasa pemrograman memiliki fungsi dan tujuan tertentu
 
 -HTML yaitu berfungsi sebagai struktur dan bertujuan membentuk "kerangka"/struktur dari 
 	sebuah halaman website
+
 -CSS berfungsi sebagai bagian formatting baik pada ukuran, warna, text, dll dan bertujuan 
 	"mark-up"  sebuah website yang memiliki tampilan sesuai dengan konteks website yang dibuat
 	
